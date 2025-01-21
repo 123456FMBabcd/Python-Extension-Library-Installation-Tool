@@ -1,11 +1,11 @@
-**Python-Extension-Library-Installation-Tool**
+##**Python-Extension-Library-Installation-Tool**
 
 **一、项目简介**
 这是一个个人开发的项目，旨在帮助 Python 初学者更方便地安装、卸载扩展库。它提供了一个简单易用的图形用户界面（GUI），用户可以轻松管理 Python 扩展库，同时支持使用中国的各大优秀镜像源，以解决在使用官方源时可能出现的网络速度慢等问题。
 
 **二、功能特性**
 1. **扩展库安装与卸载**：
-    - 在输入框中输入要安装或卸载的 Python 扩展库的名称，点击相应按钮，即可通过 `pip` 命令进行操作。
+    - 在输入框中输入要安装或卸载的 Python 扩展库的名称，点击相应按钮，程序自动调用 `pip` 命令进行操作。
     - 可以选择不同的镜像源，如清华镜像、阿里镜像、中科大镜像、豆瓣镜像等，以加快下载或卸载速度。
     - 安装或卸载操作完成后，会通过弹窗显示相应的成功或失败信息。
 2. **查看已安装的扩展库**：
@@ -47,10 +47,11 @@
 
 
 **六、联系我们**
-若在使用过程中遇到问题或有任何建议，请联系2198789746@qq.com或fatheriscoming@126.com
+若在使用过程中遇到问题或有任何建议，请联系2198789746@qq.com或fatheriscoming@126.com  
 
 
-**Python-Extension-Library-Installation-Tool**
+
+##**Python-Extension-Library-Installation-Tool**
 
 **I. Project Introduction**
 This is a project developed by an individual, aiming to help Python beginners install and uninstall extension libraries more conveniently. It provides a simple and easy-to-use Graphical User Interface (GUI) that allows users to manage Python extension libraries easily. It also supports various excellent mirror sources in China, which helps solve the problem of slow network speed when using the official source.
